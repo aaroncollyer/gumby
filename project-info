@@ -1,0 +1,25 @@
+Project Gumby
+ - iBetu prototype
+
+ People will be able to 
+  - Sign up 
+  - Log in
+
+  Once logged in they can
+  - Create an "Offer" 
+  - View all existing "Offers"
+  - Make a bet on an "Offer"
+
+  Offer
+  An offer is all the terms of the bet. In normal betting situation it would be seen as West coast eagles are paying $2.30 to beat Geelong on said date
+
+  Bet
+  A bet is when someone takes on an offer and places and financial transaction to it. 
+
+The Prototype
+ - Will be web based
+ - Using firebase to handle user log ins and sign ups
+ - Will integrate with a blockchain TBA
+ - Will not be tested against a wide range of mobile decives
+
+ 
